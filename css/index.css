@@ -148,4 +148,5 @@ button:disabled {
 }
 .invisivel {
   display: none;
+  color: red;
 }
